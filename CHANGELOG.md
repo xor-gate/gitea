@@ -4,6 +4,11 @@ This changelog goes through all the changes that have been made in each release
 without substantial changes to our git log; to see the highlights of what has
 been added to each release, please refer to the [blog](https://blog.gitea.com).
 
+## [1.21.11-adi1](https://github.com/xor-gate/gitea/releases/tag/v1.21.11) - 2024-12-19
+
+* ENHANCEMENT
+  * Color navigation bar red when logged in as Site Administrator and display text
+
 ## [1.21.11](https://github.com/go-gitea/gitea/releases/tag/v1.21.11) - 2024-04-07
 
 * SECURITY
